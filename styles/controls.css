@@ -1,0 +1,35 @@
+#window-controls {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.control-icon {
+    width: 8px;
+    height: 8px;
+    position: relative;
+    top: 0px;
+}
+
+.control-button {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin: 0;
+    padding: 0;
+    border-radius: 100%;
+    line-height: 13px;
+    text-align: center;
+}
+
+#close {
+    background-color: rgb(255, 76, 71);
+}
+
+#minimize {
+    background-color: rgb(255, 185, 42);
+}
+
+#maximize {
+    background-color: rgb(37, 200, 58);
+}
