@@ -22,7 +22,7 @@ td {
 #result-container {
     width: 100%;
     height: 24%;
-    background-color: rgb(151, 151, 151);
+    background-color: rgba(151, 151, 151, 1);
     -webkit-app-region: drag;
     color: white;
 }
